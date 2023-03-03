@@ -7,7 +7,7 @@
     <ul class="nav nav-tabs">
       <li class="nav-item">
         <a class="nav-link active" data-bs-toggle="tab" href="#competencia"
-          >Competencia General dd2</a
+          >Competencia General</a
         >
       </li>
       <li class="nav-item">
