@@ -12,6 +12,5 @@
 </main>
 
 <style lang="sass">
-  *
-    font-family: 'Open Sans', sans-serif
+  
 </style>
